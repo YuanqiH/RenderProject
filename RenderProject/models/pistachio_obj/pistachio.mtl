@@ -1,0 +1,11 @@
+newmtl almondKernels:shellSG
+
+illum 4
+Kd 0 0 0
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+
+map_Kd pistachio_diff2.png
+map_Bump pistachio_normal.png 
+
